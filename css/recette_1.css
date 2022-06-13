@@ -1,4 +1,4 @@
-ul {
+.recette_1_ingredients {
 	/* list-style-image: url("img/casserole.png"); */
 	display: flex;
   }
@@ -6,3 +6,4 @@ ul {
 .petite_image{
 	width:90%;
 }
+
